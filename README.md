@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 test change
-Github上で更新
+testtesで更新(conflict)
