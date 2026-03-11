@@ -3,4 +3,4 @@
 test change
 rebase-practice branch（リベースこんふりくと）
 rebese用
-stash練習（トラック済み）
+stash練習（2nd変更）
